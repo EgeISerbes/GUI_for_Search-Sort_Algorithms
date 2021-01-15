@@ -23,6 +23,28 @@
     <p>(Results Window :) </p>
     <p><a href="https://github.com/EgeISerbes/GUI_for_Search-Sort_Algorithms/blob/main/Screenshots/S%C4%B1ralamaAlgoSonu%C3%A7.png"> <img src="https://github.com/EgeISerbes/GUI_for_Search-Sort_Algorithms/raw/main/Screenshots/S%C4%B1ralamaAlgoSonu%C3%A7.png"></a></p>
     <p><a href="https://github.com/EgeISerbes/GUI_for_Search-Sort_Algorithms/blob/main/Screenshots/AramaAlgoSonu%C3%A7.png"> <img src="https://github.com/EgeISerbes/GUI_for_Search-Sort_Algorithms/blob/main/Screenshots/AramaAlgoSonu%C3%A7.png"></a></p>
-    <h2>
+    <h2>Kullanılan Algoritmalar</h2>
+    <h3>Arama Algoritmaları:</h3>
+    <h4>Linear Search</h4>
+    <p>Arama değerini, verilen dizinin içindeki elemanlarla tek tek karşılaştırarak değeri dizide bulmayı amaçlar.N elemanlı bir dizide : en iyi senaryoda 1 , en kötü senaryoda n , ortalama senaryoda da n/2 defa çalışır.</p>
+    <h4>Binary Search</h4>
+    <p>Arama değerini , verilen sıralı dizinin orta elemanı ile karşılaştırarak bulmayı hedefler. Eğer aranılan değer orta elemandan küçükse, dizinin sağ kısmı kesilir ve sol kısımdan devam edilir. Eğer aranılan değer orta elemandan büyükse,dizinin sol kısmı kesilir ve arama sağ kısımdan devam edilir.N elemanlı bir dizide : en iyi senaryoda 1 sefer çalışır; zaman karışıklığı O(logn)'dir. </p>
+    <h3>Sıralama Algoritmaları:</h3>
+    <h4>Insertion Sort</h4>
+    <p></p>
+    <h4>Merge Sort</h4>
+    <p></p>
+    <h4>Heap Sort</h4>
+    <p></p>
+    <h4>Quick Sort</h4>
+    <p></p>
+    <h4>Counting Sort</h4>
+    <p></p>
+    <h4>Bucket Sort</h4>
+    <p></p>
+    <h4>Radix Sort</h4>
+    <p></p>
+    
+    
 
 
